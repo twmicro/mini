@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Presentation\Presentation\bin\Debug\Presentation.exe
+C:\Users\User\source\repos\Presentation\Presentation\bin\Debug\Presentation.pdb
+C:\Users\User\source\repos\Presentation\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Presentation\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\User\source\repos\Presentation\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\User\source\repos\Presentation\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Presentation\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Presentation\Presentation\obj\Debug\Presentation.exe
+C:\Users\User\source\repos\Presentation\Presentation\obj\Debug\Presentation.pdb
